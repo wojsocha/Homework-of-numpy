@@ -141,7 +141,7 @@ Numpy arrays allow for slicing along multiple dimension. For example:
 .. code-block:: python
 
     >>> import numpy as np
-    >>> arr = np.zeros((4, 4), dtype=np.uin16)
+    >>> arr = np.zeros((4, 4), dtype=np.uint16)
     >>> arr
     array([[0, 0, 0, 0],
            [0, 0, 0, 0],
